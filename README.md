@@ -11,6 +11,6 @@
 
 ### Stats:
  
- !  https://github-readme-stats.vercel.app/api?username=Ihavespentdayswiththeartifactnow&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=synthwave" 
+  ! [ Anurag'ın github istatistikleri] (https://github-readme-stats.vercel.app/api?username=Ihavespentdayswiththeartifactnow&amp;show_icons=true&amp;hide=contribs,prs&amp;cache_seconds=86400&amp;theme=synthwave)
 
 ![stats2](https://komarev.com/ghpvc/?username=Ihavespentdayswiththeartifactnow&style=flat&color=ffc0cb)
