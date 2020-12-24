@@ -10,6 +10,7 @@
 
 
 ### Stats:
-![stats1](https://github-readme-stats.vercel.app/api?username=Ihavespentdayswiththeartifactnow&show_icons=true&count_private=true&title_color=ffc0cb&icon_color=ffc0cb)
+ 
+ ! [ Anurag'ın github istatistikleri] (https://github-readme-stats.vercel.app/api ? Username = Ihavespentdayswiththeartifactnow & theme = synthwave & ​​show_icons = true )
 
 ![stats2](https://komarev.com/ghpvc/?username=Ihavespentdayswiththeartifactnow&style=flat&color=ffc0cb)
